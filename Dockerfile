@@ -111,4 +111,4 @@ RUN \
 	apk del build-deps && \
 	rm -rf /var/cache/apk/*
 
-CMD ["python"]
+#CMD ["python"]
